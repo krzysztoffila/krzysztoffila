@@ -20,9 +20,9 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
-- 🔭 I’m working as Team Supervisor in German Company.
-- 🌱 Exploring Vue.js & Technical Content Writing.
+I am Team Supervisor in German Company <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
+- 🔭 I am learn to become Frontend Developer.
+- 🌱 Exploring Vue.js & Machine Learning/Ai Engineer.
 - ⚡ In my free time I learn new languages and read tech articles(AI).
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/chrisfila-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chrisfila)
 

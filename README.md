@@ -8,6 +8,9 @@
   <a href="https://www.codebyfila.pl">
     <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog Badge"/>
   </a>
+  <p align="center">
+<a href="https://buycoffee.to/chrisfila" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+  </p>
 </div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=krzysztoffila&style=flat-square&color=blue" alt=""></p>
 <h1>

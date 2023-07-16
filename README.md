@@ -22,8 +22,8 @@
 
 I am IT Technician <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 - 🔭 I am learning to become Frontend Developer.
-- 🌱 Exploring Vue.js & Machine Learning/AI Engineer.
-- ⚡ In my free time I learn new languages and read tech articles(AI).
+- 🌱 Exploring Vue.js & AI World(Machine Learning/AI Engineer).
+- ⚡ In my free time I learn German and solve task on Codewars.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/chrisfila-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chrisfila)
 
 ---

@@ -60,6 +60,8 @@ I am IT Technician <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 ---
 
 ### ✍️ Blog Posts : 
+<!-- BLOG-POST-LIST:START -->
 - [Arrays](https://codebyfila.pl/tablice/)
-- [Conditional Statements](https://codebyfila.pl/stwierdzenia-warunkowe/)<!-- BLOG-POST-LIST:START -->
+- [Conditional Statements](https://codebyfila.pl/stwierdzenia-warunkowe/)
+- [Advanced Objects](https://codebyfila.pl/advanced-objects/)
 <!-- BLOG-POST-LIST:END -->

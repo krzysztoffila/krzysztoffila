@@ -23,7 +23,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am IT Technician <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
+I am graduated IT Technician and aspiring Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 - 🔭 I am learning to become Frontend Developer.
 - 🌱 Exploring Vue.js & AI World(Machine Learning/AI Engineer).
 - ⚡ In my free time I learn German and solve task on Codewars.

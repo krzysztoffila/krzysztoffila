@@ -64,4 +64,5 @@ I am graduated IT Technician and aspiring Frontend Developer <img src="https://m
 - [Arrays](https://codebyfila.pl/tablice/)
 - [Conditional Statements](https://codebyfila.pl/stwierdzenia-warunkowe/)
 - [Advanced Objects](https://codebyfila.pl/advanced-objects/)
+- [Classes](https://codebyfila.pl/classes/)
 <!-- BLOG-POST-LIST:END -->

@@ -26,7 +26,7 @@
 I am graduated IT Technician and aspiring Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 - 🔭 I am learning to become Frontend Developer.
 - 🌱 Exploring Vue.js & React.
-- ⚡ In my free time I learn Languages and Machine Learning/AI Engineering + solve task on Codewars.
+- ⚡ In my free time I learn Algorithms and data structures using JavaScript + solve task on Codewars.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/chrisfila-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chrisfila)
 
 ---

@@ -9,7 +9,7 @@ I am an IT Technician with aspirations to become a frontend developer. I am curr
 * 🌍  I'm based in Frankfurt am Main🇩🇪 until April 2024. Then I move to Poland🇵🇱
 * 🖥️  See my portfolio at [MyBlog](http://codebyfia.pl)
 * ✉️  You can contact me at [umowy.fila@gmail.com](mailto:umowy.fila@gmail.com)
-* 🚀  I'm currently working on [Alledrogo e-commerce app](http://https://github.com/krzysztoffila/alledrogo-ecommerce-nextjs)
+* 🚀  I'm currently working on [Doctor Online](https://github.com/krzysztoffila/doctor-online-MEVN)
 * 🧠  I'm learning JavaScript/TypeScript/Vue/React
 * 🤝  I'm open to collaborating on e-commerce platforms
 * ⚡  In my free time I learn Algorithms and data structures using JavaScript + solve task on Codewars.

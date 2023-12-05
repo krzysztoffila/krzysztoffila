@@ -7,7 +7,7 @@ Frontend Developer
 I am an IT Technician with aspirations to become a frontend developer. I am currently focusing on JS/Vue.js projects after which I plan to try my hand at TS/React
 
 * 🌍  I'm based in Frankfurt am Main🇩🇪 until April 2024. Then I move to Poland🇵🇱
-* 🖥️  See my portfolio at [MyBlog](http://codebyfia.pl)
+* 🖥️  See my portfolio at [MyBlog](https://codebyfila.pl/projects/)
 * ✉️  You can contact me at [umowy.fila@gmail.com](mailto:umowy.fila@gmail.com)
 * 🚀  I'm currently working on [Doctor Online(MEVN)](https://github.com/krzysztoffila/doctor-online-MEVN) && [Doctor Online(MERN)](https://github.com/krzysztoffila/my-doctor-MERN)
 * 🧠  I'm learning JavaScript/TypeScript/Vue/React

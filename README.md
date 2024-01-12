@@ -9,7 +9,7 @@ I am an IT Technician with aspirations to become a frontend developer. I am curr
 * 🌍  I'm based in Frankfurt am Main🇩🇪 until April 2024.
 * 🖥️  See my portfolio at [MyBlog](https://codebyfila.pl/projects/)
 * ✉️  You can contact me at [umowy.fila@gmail.com](mailto:umowy.fila@gmail.com)
-* 🚀  I'm currently working on [Doctor Online(MEVN)](https://github.com/krzysztoffila/doctor-online-MEVN) && [Doctor Online(MERN)](https://github.com/krzysztoffila/my-doctor-MERN)
+* 🚀  I'm currently working on ~~[Doctor Online(MEVN)](https://github.com/krzysztoffila/doctor-online-MEVN) && [Doctor Online(MERN)](https://github.com/krzysztoffila/my-doctor-MERN)~~
 * 🧠  I'm learning JavaScript/TypeScript/Vue/React
 * 🤝  I'm open to collaborating on e-commerce platforms
 * ⚡  In my free time I learn Algorithms and data structures using JavaScript.

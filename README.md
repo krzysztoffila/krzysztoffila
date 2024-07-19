@@ -7,7 +7,7 @@ Frontend Developer
 I am an IT Technician with aspirations to become a frontend developer. I am currently focusing on JavaScript and Vue.js projects after which I plan to try my hand at TypeScript with React and PHP with jQuery
 
 * 🌍  I'm based in Opole - Poland🇵🇱
-* 🖥️  See my portfolio at [MyBlog](https://codebyfila.pl/projects/)
+* 🖥️  See my portfolio [here](https://krzysztof-fila.netlify.app/)
 * ✉️  You can contact me at [umowy.fila@gmail.com](mailto:umowy.fila@gmail.com)
 * 🧠  I'm learning JavaScript/Vue
 * 🤝  I'm open to collaborating on e-commerce platforms

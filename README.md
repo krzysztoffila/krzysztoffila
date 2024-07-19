@@ -4,7 +4,7 @@ Hi 👋 My name is Krzysztof Fila
 Frontend Developer
 ------------------ 
 
-I am an IT Technician with aspirations to become a frontend developer. I am currently focusing on JavaScript and Vue.js projects after which I plan to try my hand at TypeScript with React and PHP with jQuery
+I am an IT Technician with over a year of experience in IT, primarily in hardware. I have aspirations to become a frontend developer and am currently focusing on JavaScript and Vue.js projects, after which I plan to try my hand at the entire Vue ecosystem(Nuxt, Pinia etc.) and TypeScript.
 
 * 🌍  I'm based in Opole - Poland🇵🇱
 * 🖥️  See my portfolio [here](https://krzysztof-fila.netlify.app/)

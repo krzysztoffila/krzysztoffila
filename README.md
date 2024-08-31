@@ -32,7 +32,7 @@ I am an IT Technician with over a year of experience in IT, primarily in hardwar
 
 <a href="http://www.github.com/krzysztoffila"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krzysztoffila&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/krzysztoffila" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krzysztoffila&&layout=compact&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+![Codewars](https://github.r2v.ch/codewars?user=krzysztoffila&theme=midnight_blue&top_languages=true)
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">

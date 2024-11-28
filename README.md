@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a technology enthusiast who started my journey in programming as a Front-end Developer. Through my experience in creating user interfaces, I have gained analytical thinking skills and a strong understanding of data. Currently, I am shifting my focus toward data analytics, where I can combine my technical skills with an analytical approach to problem-solving. I aim to enhance my competencies in data analysis and seek opportunities that will allow me to fully realize my potential in this field.
 
 * 🌍  I'm based in Poland
-* 🖥️  See my [Portfolio](http://https://krzysztof-fila.pl/)
+* 🖥️  See my [Portfolio](https://krzysztof-fila.pl/)
 * ✉️  You can contact me at [umowy.fila@gmail.com](mailto:umowy.fila@gmail.com)
 * 🚀  I'm currently working on [Data Analyst Portfolio](http://google.com)
 * 🧠  I'm learning Data Analytics
